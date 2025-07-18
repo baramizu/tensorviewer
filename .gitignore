@@ -205,3 +205,10 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# numpy
+#  numpy is a popular Python library for numerical computing. The following files are
+#  typically generated during the build process and should be ignored.
+numpy.dist-info/
+*.npy
+*.npz
